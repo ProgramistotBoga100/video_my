@@ -6,5 +6,5 @@
     transform-style: preserve-3d;
   }
 @keyframes spinner {
-  100% {transform:  rotateX(360deg);}
+  100% {transform:  rotatey(360deg);}
   }
